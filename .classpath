@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/Aqdam Naseem/jar_files/commons-cli-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aqdam Naseem/jar_files/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aqdam Naseem/jar_files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aqdam Naseem/jar_files/guava-15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aqdam Naseem/jar_files/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aqdam Naseem/jar_files/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aqdam Naseem/jar_files/librec-core-2.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
