@@ -1,2 +1,2 @@
 # SampleRecommenderSystem
-This is a Sample Recommender System , which uses Neighbourhood Based User-User Collaborative Filtering.
+This is a Sample Recommender System , which uses Neighbourhood Based User-User Collaborative Filtering to predict Movie Ratings.A custom similarity metric, Jaccard Mean Squared Distance or JMSD , has been used to calculate the similarity between two users.The RS has been written in Java , using  LibRec. K-Nearest Neighbours Approach , with K=25 was used to estimate the ratings.Movielens 100k DataSet was used for training and testing. Accuracy was improved from 74% using PCC to 82% using the new similarity metric, JMSD.
